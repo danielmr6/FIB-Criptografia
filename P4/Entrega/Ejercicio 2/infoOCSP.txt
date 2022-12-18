@@ -1,0 +1,60 @@
+OCSP Request Data:
+    Version: 1 (0x0)
+    Requestor List:
+        Certificate ID:
+          Hash Algorithm: sha1
+          Issuer Name Hash: C3FDEA1EAA0EBEDE75016EEC6E5BB393F0F12E5D
+          Issuer Key Hash: 6F1D3549106C32FA59A09EBC8AE81F95BE717A0C
+          Serial Number: 6B5C1B440B67BE12F2211067F58A3AAA
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 6F1D3549106C32FA59A09EBC8AE81F95BE717A0C
+    Produced At: Dec 12 08:34:05 2022 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: C3FDEA1EAA0EBEDE75016EEC6E5BB393F0F12E5D
+      Issuer Key Hash: 6F1D3549106C32FA59A09EBC8AE81F95BE717A0C
+      Serial Number: 6B5C1B440B67BE12F2211067F58A3AAA
+    Cert Status: good
+    This Update: Dec 12 08:34:05 2022 GMT
+    Next Update: Dec 19 08:34:04 2022 GMT
+
+    Signature Algorithm: sha384WithRSAEncryption
+    Signature Value:
+        8a:b3:59:f3:bb:fb:08:f9:06:75:98:47:09:60:36:8b:32:5b:
+        17:e2:18:bc:a5:ba:8d:8e:6e:93:9f:15:38:6d:f3:14:3c:a5:
+        dc:9d:65:72:26:d9:1e:4b:5c:2f:84:bf:8e:f1:3d:8e:38:f1:
+        3c:14:ce:50:48:f4:83:7e:e1:39:ee:b9:01:a6:25:0f:f6:21:
+        48:9b:00:70:04:47:40:f8:a0:ca:80:39:c3:63:e7:2a:d0:14:
+        71:7c:be:ca:43:64:ae:ed:61:1e:bf:22:02:42:9b:92:3a:5e:
+        1a:e3:65:a2:ae:e5:70:0c:ca:4a:ab:d7:ae:06:71:09:df:c3:
+        7a:83:24:37:d0:7b:8f:00:3d:60:39:53:b7:b8:2d:bf:7d:76:
+        24:01:a2:d3:a6:10:44:8f:1f:2f:e8:47:77:c6:6d:99:e4:76:
+        12:fe:05:23:f5:7c:e9:75:66:00:b6:58:af:0d:1d:5c:cc:9f:
+        45:d5:c8:7c:84:01:1e:22:c8:df:fa:ed:bd:3b:b1:ac:d8:7b:
+        1a:7f:a9:d1:b0:d3:f5:1e:22:a2:f4:81:7b:8c:dc:df:f5:aa:
+        fe:29:3a:80:65:92:c5:53:aa:1f:d6:23:04:16:bf:2a:6e:46:
+        c6:92:40:2b:f1:0e:9d:cc:b1:c7:1b:23:33:0f:c8:7b:c0:6d:
+        38:3e:8b:55:98:bd:c1:a4:8e:28:bf:1b:d3:ea:c5:dc:29:c3:
+        93:55:cd:1c:11:f3:61:76:42:f2:14:b7:18:db:65:85:51:e4:
+        a4:77:c0:3e:59:27:71:e2:4f:b6:a4:47:e2:c6:62:bc:f2:db:
+        3e:3d:dd:3d:d0:3c:20:e8:a6:6f:2b:cc:99:de:4f:a0:ad:63:
+        71:bb:71:73:9b:8f:3e:37:b9:6d:78:70:97:be:b6:1d:00:ec:
+        23:eb:88:29:08:6a:d0:1f:48:6e:4b:2d:ed:96:1a:33:1a:fe:
+        ae:06:00:0d:76:b5:ef:3d:b0:0e:a7:3f:e0:65:e7:2c:63:f9:
+        c4:21:90:4d:aa:2f:f4:9c:90:6b:cf:3a:f2:1a:38:e5:7c:63:
+        05:7f:9d:3f:5e:a7:85:db:df:6e:5d:85:d1:e6:6d:f9:ac:96:
+        06:89:e2:20:a8:e7:c6:4a:8b:12:46:a2:e2:de:41:ff:c7:01:
+        76:40:55:7a:3d:c3:58:d9:63:0f:af:f0:16:fa:cb:4a:62:b1:
+        15:18:f7:3e:78:5c:de:b5:d2:d5:2f:43:cb:46:f0:fc:34:4b:
+        ef:67:e1:40:b7:74:d5:f4:dd:17:b1:78:d5:6b:4c:42:3f:7c:
+        f0:0a:69:ac:74:ef:87:2f:47:35:a4:ef:ef:6e:d1:53:51:b1:
+        b2:8f:af:33:89:e2:50:93
+Response verify OK
+certificateFib.pem: good
+	This Update: Dec 12 08:34:05 2022 GMT
+	Next Update: Dec 19 08:34:04 2022 GMT
+
